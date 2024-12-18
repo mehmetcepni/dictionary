@@ -1,0 +1,12 @@
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\bin\Debug\notepadd.exe.config
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\bin\Debug\notepadd.exe
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\bin\Debug\notepadd.pdb
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.Form1.resources
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.Properties.Resources.resources
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.exe
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.pdb
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.LoginForm.resources
+C:\Users\mehme\OneDrive - Bingöl Üniversitesi\Belgeler\DERSLER\PROJELER\VS Masaüstü\notepadd\notepadd\obj\Debug\notepadd.RegisterForm.resources
